@@ -2,7 +2,7 @@
 - 👀 I’m interested in cooding
 - 🌱 I’m currently learning html, css, javascript, python
 - 💞️ I’m looking to collaborate on javascript
-- 📫 How to reach me: email me koseni@mail.ru
+- 📫 How to reach me: email me serg.komarov@gmail.com
 
 <!---
 KoSeNik/KoSeNik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
